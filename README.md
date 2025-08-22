@@ -16,7 +16,8 @@ I have Apache running on my computer with port 80 open. Testing confirms that wh
 
 <img width="972" height="135" alt="8" src="https://github.com/user-attachments/assets/2ab9d282-287b-4891-9116-bf05db0cdc58" />
 <img width="2076" height="735" alt="5" src="https://github.com/user-attachments/assets/4818a7ca-f330-4447-b447-b5984a8a06ff" />
-<img width="2076" height="735" alt="6" src="https://github.com/user-attachments/assets/5da6eaf7-ab1d-4918-8ed1-1066f1549ca2" />
+<img width="2067" height="698" alt="1" src="https://github.com/user-attachments/assets/a5557932-db7b-49fa-8470-abcdbea29b70" />
+
 
 
 When testing port 81, a closed port results in a 500 response
